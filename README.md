@@ -13,7 +13,7 @@ This project demonstrates the workflow of data cleaning - time series forecastin
 ---
 
 ## Project Structure
-
-- cleaning.py - Cleans and aggregates monthly revenue data
-- prophet-forecast.py - Runs a Prophet forecast and outputs forecasted values with confidence intervals
+- scripts
+    - cleaning.py - Cleans and aggregates monthly revenue data
+    - prophet-forecast.py - Runs a Prophet forecast and outputs forecasted values with confidence intervals
 - sample cleaned dataset (`sales_forecast.csv`)
